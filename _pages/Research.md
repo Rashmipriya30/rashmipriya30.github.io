@@ -8,9 +8,15 @@ redirect_from:
 ---
 
 ## Research Areas 
-Artificial intelligence & Machine learning,	Data Analytics, IoT & Edge Computing,	Precision Agriculture, Big Data Processing
+Artificial intelligence & Machine learning,	Data Analytics, Wireless sensor network, IoT & Edge Computing,	Precision Agriculture, Big Data Processing
 
 ## Current Research in Progress
+### **Development of reliable proximal sensing technologies for forage height estimation**
+<p align="justify"> <img align="right" src="/images/component1.png" width="370">
+PaddockTrac is a hardware module that measures the height of a pasture using ultrasonic time-of-flight (ToF) technology. It utilizes the time taken for a signal to travel from the sensor to the top of the canopy and back to calculate the height of the canopy. These height data are used to approximate biomass, similar to those produced by a rising plate meter. 
+  
+  
+## Completed Research Work
 
 ### **IoT enabled WSN monitoring infrastructure driven Fuzzy-logic based Crop pest prediction**
 <p align="justify"> <img align="right" src="/images/proj2.png" width="370">
