@@ -6,9 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+# Ongoing Project
 
-
-# Completed and Ongoing Projects
+# Completed Projects
 
 ## Precision Agriculture Model to Increase Crop Productivity in India using Big Data
 **Sponsored by: Department of Science and Technology, Government of India** 
