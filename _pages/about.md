@@ -59,7 +59,7 @@ I broadly work in Wireless Sensor Network, Big data analytics and its applicatio
 Plant Science and Technology\
 University of Missouri\
 1112 University Ave, Columbia, MO 65201\
-Email: rashmi.priya.303@gmail.com\
+Email: rashmi.priya.303@gmail.com
 
 
 
