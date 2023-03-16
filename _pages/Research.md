@@ -12,7 +12,7 @@ Artificial intelligence & Machine learning,	Data Analytics, Wireless sensor netw
 
 ## Current Research in Progress
 ### **Development of reliable proximal sensing technologies for forage height estimation**
-<p align="justify"> <img align="right" src="/images/component1.png" width="370">
+<p align="justify"> <img align="right" src="/images/component.png" width="370">
 PaddockTrac is a hardware module that measures the height of a pasture using ultrasonic time-of-flight (ToF) technology. It utilizes the time taken for a signal to travel from the sensor to the top of the canopy and back to calculate the height of the canopy. These height data are used to approximate biomass, similar to those produced by a rising plate meter. 
 <details>
 <summary>Read More</summary>I am currently leading the development of a cyber-physical system that aims to optimize the use of grazing lands by providing accurate biomass estimates. Grazing lands cover most of the world's agricultural lands and play a crucial role in supplying feed for ruminant animals, carbon sequestration, and other ecosystem services. However, monitoring plant growth and estimating forage biomass is a complex and time-consuming task for land managers.
