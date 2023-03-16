@@ -13,8 +13,8 @@ main:
   - title: "Bio"
     url: /cv/ 
     
-  - title: "Gallery"
-    url: /Gallery/ 
+  #- title: "Gallery"
+  # url: /Gallery/ 
       
 # main links links
 #main:
