@@ -21,6 +21,10 @@ My current project seeks to transform the management of grazing lands by providi
 </details></p>
   
   
+  
+  
+  
+  
 ## Completed Research Work
 
 ### **IoT enabled WSN monitoring infrastructure driven Fuzzy-logic based Crop pest prediction**
