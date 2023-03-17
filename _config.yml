@@ -79,8 +79,9 @@ analytics:
 author:
   name             : "Rashmi Priya Sharma"
   avatar           : "rashmi_2.jpg"
-  bio              : |
+  bio              : |-
                     Postdoctoral Fellow
+                    
                     Universty Of Missouri
                     Columbia, MO, USA
   employer         :
