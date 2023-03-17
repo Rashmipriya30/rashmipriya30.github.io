@@ -19,10 +19,10 @@ PaddockTrac is a hardware module that measures the height of a pasture using ult
 The project I am working on combines machine learning, proximal and remote sensing, weather information, and other variables to better predict pasture biomass. While remote sensing data are useful for scaling biomass predictions, models relying solely on them often have high error levels, making predictions of dubious value to grazing land managers.
 My current project seeks to transform the management of grazing lands by providing the key data for better decisions and overcoming the barriers that prevent managers from adopting more effective management practices, with the final objective of allowing accurate biomass estimation. By integrating different technologies and data sources, I aim to provide an accessible and user-friendly tool that can assist land managers in improving their grazing land management practices, ultimately leading to better environmental and economic outcomes
 </details></p>
-  
-  
-  
-  
+<br>  
+<br>   
+<br>   
+<br>   
   
   
 ## Completed Research Work
