@@ -16,9 +16,9 @@ redirect_from:
 ## Work experience
 * **Industry**
   * Research Intern: Agro Glean System Enterprises, India, 2020-2021 (1 Year)
-* **Research Project & Lectureship**
+* **Research Project & Teaching**
   * Senior Research Fellow: IIT Dhanbad & Science and Engineering Research Board, Government of India, (2017-2020) (3 Years)
-  * Lecturer: Dehradun Intitute of Technology, India, 2016-2017 (1 Year)
+  * Assistant Professor: Dehradun Intitute of Technology, India, 2016-2017 (1 Year)
    
   
 ## Skills
@@ -63,6 +63,9 @@ redirect_from:
 
 
 ## Reviewer Experience
+* Agriculture
+* Applied Science
+* Big Data and Cognitive Computing
 * Sustainable Computing: Informatics and Systems, Elsevier
 * International Journal of Communication Systems, Wiley
 
