@@ -44,11 +44,10 @@ I broadly work in Wireless Sensor Network, Big data analytics and its applicatio
 3. Pankaj Pal, Rashmi Priya Sharma, Tripathi Sachine, Kumar Chiranjeev, Ramesh Dharavath. ""Machine Learning Regression for RF Path Loss Estimation Over Grass Vegetation in IoWSN Monitoring Infrastructure." IEEE Transactions on Industrial Informatics 18.10 (2022): 6981-6990. 
 
 ## Data repository
-1. Agro Glean System, Pankaj Pal, Rashmi Priya Sharma, November 11, 2020, "Effect of Paddy Rice vegetation on received signal strength between CC2538 SoC based sensor nodes operating at 2.4 GHz Radio Frequency (RF)", IEEE Dataport, doi: https://dx.doi.org/10.21227/j5xy-3e81.
-2. Agro Glean System, Pankaj Pal, Rashmi Priya Sharma, November 11, 2020, "Effect of Paddy vegetation on path-loss between CC2650 SoC based sensor nodes operating at 2.4 GHz Radio Frequency (RF)", IEEE Dataport, doi: https://dx.doi.org/10.21227/d93c-dd49.
-3. Agro Glean System, Pankaj Pal, Rashmi Priya Sharma, November 11, 2020, "Effect of millet vegetation on received signal strength between CC2538 SoC based sensor nodes operating at 2.4 GHz Radio Frequency (RF)", IEEE Dataport, doi: https://dx.doi.org/10.21227/0j8q-nb57.
-4. Agro Glean System, Pankaj Pal, Rashmi Priya Sharma, November 11, 2020, "Effect of Sugarcane Vegetation On Path-Loss Between CC2650 and CC2538 Soc Based Sensor Nodes Operating At 2.4 Ghz Radio Frequency (Rf)", IEEE Dataport, doi: https://dx.doi.org/10.21227/8mcm-hx34.
-5. <span style="color: blue;">["Effect of Paddy Rice vegetation on received signal strength between CC2538 SoC based sensor nodes operating at 2.4 GHz Radio Frequency (RF)"](https://ieee-dataport.org/documents/effect-paddy-rice-vegetation-received-signal-strength-between-cc2538-soc-based-sensor)</span>, **IEEE Dataport**
+1. <span style="color: blue;">["Effect of Paddy Rice vegetation on received signal strength between CC2538 SoC based sensor nodes operating at 2.4 GHz Radio Frequency (RF)"](https://ieee-dataport.org/documents/effect-paddy-rice-vegetation-received-signal-strength-between-cc2538-soc-based-sensor)</span>, **IEEE Dataport**
+2. <span style="color: blue;">["Effect of Paddy vegetation on path-loss between CC2650 SoC based sensor nodes operating at 2.4 GHz Radio Frequency (RF)"](https://ieee-dataport.org/documents/effect-paddy-vegetation-path-loss-between-cc2650-soc-based-sensor-nodes-operating-24-ghz)</span>, **IEEE Dataport**
+3. <span style="color: blue;">["Effect of millet vegetation on received signal strength between CC2538 SoC based sensor nodes operating at 2.4 GHz Radio Frequency (RF)"](https://ieee-dataport.org/documents/effect-millet-vegetation-received-signal-strength-between-cc2538-soc-based-sensor-nodes)</span>, **IEEE Dataport**
+4. <span style="color: blue;">["Effect of Sugarcane Vegetation On Path-Loss Between CC2650 and CC2538 Soc Based Sensor Nodes Operating At 2.4 Ghz Radio Frequency (Rf)"](https://ieee-dataport.org/documents/effect-sugarcane-vegetation-path-loss-between-cc2650-and-cc2538-soc-based-sensor-nodes)</span>, **IEEE Dataport**
 
 
 ## News
