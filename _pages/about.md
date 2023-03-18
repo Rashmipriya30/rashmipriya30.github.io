@@ -23,7 +23,7 @@ I broadly work in Wireless Sensor Network, Big data analytics and its applicatio
  - Modular artificial neural network-based crop yield prediction by considering weather attributes and land and suggesting measures to increase the crop yield. .
 
 ## Current Project
-1. **Title**: Development of a cyber-physical system that aims to optimize the use of grazing lands by providing accurate biomass estimates.
+1. **Title**: Development of a cyber-physical system that aims to optimize the use of grazing lands by providing accurate biomass estimates.\
 **Role**: Postdoctoral Fellow.
 
 ## Completed Projects
