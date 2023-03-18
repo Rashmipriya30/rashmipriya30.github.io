@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 # Publication in SCI (Clarivate) Journal:
-1. Sharma Rashmi Priya, Ramesh Dharavath, Pal Pankaj, Tripathi Sachin, and Kumar Chiranjeev.  <span style="color: blue;">"[IoT enabled
+1. Sharma Rashmi Priya, Ramesh Dharavath, Damodar R. Edla.  <span style="color: blue;">"[IoFT-FIS: Internet of farm things based prediction for crop pest infestation using optimized fuzzy inference system.](https://www.sciencedirect.com/science/article/pii/S2542660522001391)"</span>. **Internet of Things (Q1), (Elsevier), vol.7(21), pp. 100658 (2023). (IF: 5.711)**.
+2. Pal Pankaj, Rashmi Priya Sharma, Tripathi Sachine, Kumar Chiranjeev, Ramesh Dharavath.  <span style="color: blue;">"[NSGA-III Based Heterogeneous Transmission Range selection for Node Deployment in IEEE 802.15.4 Infrastructure for Sugarcane and Rice Crop Monitoring.](https://ieeexplore.ieee.org/abstract/document/9955551)"</span>. **IEEE Transactions on Wireless Communications (Q1), Early Access (2023). (IF: 8.346)**.
+3. Sharma Rashmi Priya, Ramesh Dharavath, Pal Pankaj, Tripathi Sachin, and Kumar Chiranjeev.  <span style="color: blue;">"[IoT enabled
 IEEE 802.15. 4 WSN monitoring infrastructure driven Fuzzy-logic based Crop pest prediction.](https://ieeexplore.ieee.org/document/9477409)"</span>. **Internet
 of Things Journal (Q1), (IEEE), Early Access,(2021). (IF: 9.471)**.
 2. Priya Rashmi, Ramesh Dharavath, and U. Venkanna. <span style="color: blue;">"[NSGA-2 Optimized Fuzzy Inference System for
