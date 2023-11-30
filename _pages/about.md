@@ -41,7 +41,7 @@ I broadly work in Wireless Sensor Network, Big data analytics and its applicatio
 ## Recent publications
 1. Rashmi Priya Sharma, Dharavath Ramesh, and Damodar R. Edla. "IoFT-FIS: Internet of farm things based prediction for crop pest infestation using optimized fuzzy inference system." Internet of Things 21 (2023): 100658.
 2. Pankaj Pal, Rashmi Priya Sharma, Sachin Tripathi, Chiranjeev Kumar, and Dharavath Ramesh "NSGA-III Based Heterogeneous Transmission Range selection for Node Deployment in IEEE 802.15. 4 Infrastructure for Sugarcane and Rice Crop Monitoring in a Humid Sub-Tropical Region." IEEE Transactions on Wireless Communications (2022).
-3. Pankaj Pal, Rashmi Priya Sharma, Tripathi Sachine, Kumar Chiranjeev, Ramesh Dharavath. ""Machine Learning Regression for RF Path Loss Estimation Over Grass Vegetation in IoWSN Monitoring Infrastructure." IEEE Transactions on Industrial Informatics 18.10 (2022): 6981-6990. 
+3. Pankaj Pal, Rashmi Priya Sharma, Tripathi Sachine, Kumar Chiranjeev, Ramesh Dharavath. "Machine Learning Regression for RF Path Loss Estimation Over Grass Vegetation in IoWSN Monitoring Infrastructure." IEEE Transactions on Industrial Informatics 18.10 (2022): 6981-6990. 
 
 ## Data repository
 1. <span style="color: blue;">["Effect of Paddy Rice vegetation on received signal strength between CC2538 SoC based sensor nodes operating at 2.4 GHz Radio Frequency (RF)"](https://ieee-dataport.org/documents/effect-paddy-rice-vegetation-received-signal-strength-between-cc2538-soc-based-sensor)</span>, **IEEE Dataport**
