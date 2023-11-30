@@ -96,6 +96,6 @@ redirect_from:
  
 ## Teaching
   * Undergraduate: C Programming, DBMS, Computer Organization and Architecture, Digital Electronics, Computer Networks
-  * Graduate: Advance computer Networks, Machine Learning, Data Mining
+  * Graduate: Advance computer Networks, Machine Learning, Data Mining, Distributed Computing, Cloud Computing
   
 
