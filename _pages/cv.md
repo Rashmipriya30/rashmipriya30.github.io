@@ -17,6 +17,7 @@ redirect_from:
 * **Industry**
   * Research Intern: Agro Glean System Enterprises, India, 2020-2021 (1 Year)
 * **Research Project & Teaching**
+  * Postdoctoral Fellow : University of Missouri, Columbia, USA (2022- Present)
   * Senior Research Fellow: IIT Dhanbad & Science and Engineering Research Board, Government of India, (2017-2020) (3 Years)
   * Assistant Professor: Dehradun Intitute of Technology, India, 2016-2017 (1 Year)
    
