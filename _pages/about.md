@@ -15,7 +15,7 @@ Growing up in a family of farmers, I have always been fascinated by the ways tec
 
 
 ## Research Interests
-I broadly work in Wireless Sensor Network, Big data analytics and its application in the field of [precision agriculture](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/precision-agriculture), that is, analyzing the data and building models to ensure that crops and soil receive exactly what they need for optimum health and productivity. The problems that are addressed in my research work so far are:-
+I broadly work in Wireless Sensor Network, Big data analytics and its application in the field of [precision agriculture](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/precision-agriculture), that is, I build the sensors to collect the data, analyze the data and build models to ensure that crops and soil receive exactly what they need for optimum health and productivity. The problems that are addressed in my research work so far are:-
  - Crop recommendation system, using the Naive Bayes algorithm, to find the best time of sowing and ideal crop for plantation based on environmental parameters and predict the expected harvest.
  - Adaboost.RT-based N-P-K prediction to decide required soil NPK content using one-time soil testing like accessible soil contents, type of soil, crop, and yield target. 
  - Discussing the core concept of Machine learning and systematic processes to comprehend its application in agriculture. 
