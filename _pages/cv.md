@@ -20,7 +20,6 @@ redirect_from:
   * Senior Research Fellow: IIT Dhanbad & Science and Engineering Research Board, Government of India, (2017-2020) (3 Years)
   * Assistant Professor: Dehradun Intitute of Technology, India, 2016-2017 (1 Year)
    
-  
 ## Skills
 * Programming (Proficient)
   * Python, Matlab, C 
@@ -45,13 +44,13 @@ redirect_from:
   * QGIS, AutoCAD Map 3D, GEE
 
 ## Achievements
-1. Research grant
+#1. Research grant
 * Department of Science and Technology (DST),Science and Engineering Research Board (SERB) Government of India Research Grant for the period of three years.
 
-2. Industry
+#2. Industry
 * Agro Glean System Enterprise, India, Seed Funding for devlopment of low cost and reliable capacitive soil moisture sensors.
 
-3. Academic
+#3. Academic
 * Sored Rank of 2198 out of 1.8 million student in Graduate Aptitude Test in Engineering ([GATE](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering))
 * Research PhD Fellowship from Science and Engineering Research Board, India.
 
