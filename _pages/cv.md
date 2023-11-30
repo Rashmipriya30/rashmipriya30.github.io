@@ -10,8 +10,8 @@ redirect_from:
 
 ## Education
 * Bachelor of Technology in Information Technology, WBUT,India. 
-* Master of Technology in Computer Science, IIT-Dhanbad, India.
-* Doctor of Philosophy (Ph.D) in Computer Science, IIT-Dhanbad, India, (2022)
+* Master of Technology in Computer Science and Engineering, IIT-Dhanbad, India.
+* Doctor of Philosophy (Ph.D) in Computer Science and Engineering, IIT-Dhanbad, India, (2022)
 
 ## Work experience
 * **Industry**
@@ -71,11 +71,23 @@ redirect_from:
 
 
 ## Reviewer Experience
-* Agriculture
+* Computers and Electronics in Agriculture, Elsevier
+* Artificial Intelligence Review, Springer
+* knowledge and information systems, Springer
+* SN Operations Research Forum, Springer
+* Scientific Reports
 * Applied Science
 * Big Data and Cognitive Computing
 * Sustainable Computing: Informatics and Systems, Elsevier
 * International Journal of Communication Systems, Wiley
+* Sensors, MDPI
+* Electronics, MDPI
+* Agriculture, MDPI
+* Journal of Cybersecurity and Privacy, MDPI
+* Mathematics, MDPI
+* Drones, MDPI
+* Agronomy, MDPI
+* Applied Sciences, MDPI
 
 ## Talks
   <ul>{% for post in site.talks %}
