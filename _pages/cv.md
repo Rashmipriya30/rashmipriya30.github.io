@@ -23,9 +23,10 @@ redirect_from:
   
 ## Skills
 * Programming (Proficient)
-  * Python , Matlab , C 
-  * Numpy  , Pandas , Scikit Learn 
-  * Matplotlib , LATEX  , Seaborn
+  * Python, Matlab, C 
+  * Numpy, Pandas, Scikit Learn 
+  * Matplotlib, LATEX, Seaborn
+  * CaretDataExplorer, Tensorflow, Keras, PyTorch
 * Programming (Experienced)
   * Java, C++, Html, CSS, Javascript
 * Big Data Framework
@@ -36,6 +37,10 @@ redirect_from:
   * Google IoT, Amazon Web Services IoT Platform, Microsoft Azure IoT, IBM Watson IoT
 * Operating System 
   * Desktop OS: Windows 10, Ubuntu 18.04.5
+* EDA & CAD tools
+  * Autodesk-Eagle, Altium Designer, DipTrace, Fusion-360
+* On Board Computer
+  * Autodesk-Eagle, Altium Designer, DipTrace, Fusion-360
 
 ## Achievements
 1. Research grant
@@ -51,13 +56,14 @@ redirect_from:
 ## Membership
 * Student Member, ACM
 * Member, IEEE
-* International Society of Precision Agriculture
 * IEEE Young Professionals
 * IEEE Instrumentation and Measurement Society Membership
 * IEEE Communications Society Membership
 * IEEE Council on Electronic Design Automation
 * IEEE Signal Processing Society Membership
 * IEEE Sensors Counsil
+* American Society of Agronomy
+* Soil Science Society of America
 
 
 
