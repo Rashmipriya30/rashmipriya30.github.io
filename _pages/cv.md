@@ -41,6 +41,8 @@ redirect_from:
   * Autodesk-Eagle, Altium Designer, DipTrace, Fusion-360
 * On Board Computer
   * Autodesk-Eagle, Altium Designer, DipTrace, Fusion-360
+* GIS Software
+  * QGIS, AutoCAD Map 3D, GEE
 
 ## Achievements
 1. Research grant
