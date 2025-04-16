@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 ## Brief Bio
-Hi! I’m Rashmi Priya Sharma a Postdoctoral Fellow at University of Missouri, Columbia. I received my Ph.D from the Indian Institute of Technology, Dhanbad in the Department of Computer Science and Engineering. 
-Growing up in a family of farmers, I have always been fascinated by the ways technology can address the various challenges that farmers face. I have expertise in Machine Learning, Artificial Intelligence and Big Data Processings. For a decade I have been investigating the applications of ICT technologies like artificial intelligence, machine learning, IoT and the digital twin in mitigating the impact of climate change on agriculture, water resources and human health.
+Hi! I’m Rashmi Priya Sharma, a Research Scientist at the University of Missouri, Columbia. I received my Ph.D from the Indian Institute of Technology, Dhanbad, in the Department of Computer Science and Engineering. 
+Growing up in a family of farmers, I have always been fascinated by the ways technology can address the various challenges that farmers face. I have expertise in Machine Learning, Artificial Intelligence, and Big Data Processing. For a decade, I have been investigating the applications of ICT technologies like artificial intelligence, machine learning, IoT, and digital twins in mitigating the impact of climate change on agriculture, water resources, and human health.
 
 
 
